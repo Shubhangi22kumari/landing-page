@@ -1,2 +1,3 @@
 # landing-page
-I developed this landing page using HTML &amp; CSS framework. to see the website visit https://landingpage
+I developed this landing page using HTML &amp; CSS framework. to see the website visit https://shubhangi22kumari
+
